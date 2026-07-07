@@ -141,7 +141,7 @@ SHEETY_PASSWORD=YOUR_PASSWORD
 
 **Pratik Prajapati**
 
-GitHub: https://github.com/pratikxdev
+GitHub: https://github.com/pikuwa
 
 ---
 
