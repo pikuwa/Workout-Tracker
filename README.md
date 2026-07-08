@@ -101,31 +101,6 @@ Tell me which exercise you did: cycled for 45 minutes
 🎉 Workout data saved successfully!
 ```
 
----
-
-## 🔐 Environment Variables
-
-Create a `.env` file and configure the following variables:
-
-```
-APP_ID=YOUR_APP_ID
-API_KEY=YOUR_API_KEY
-EXERCISE_ENDPOINT=YOUR_EXERCISE_ENDPOINT
-
-SHEETY_ENDPOINT=YOUR_SHEETY_ENDPOINT
-
-# Choose ONE authentication method
-
-# Option 1
-SHEETY_TOKEN=YOUR_BEARER_TOKEN
-
-# Option 2
-SHEETY_USERNAME=YOUR_USERNAME
-SHEETY_PASSWORD=YOUR_PASSWORD
-```
-
----
-
 ## 📌 Future Improvements
 
 - GUI using Tkinter or CustomTkinter
@@ -142,6 +117,7 @@ SHEETY_PASSWORD=YOUR_PASSWORD
 **Pratik Prajapati**
 
 GitHub: https://github.com/pikuwa
+LinkedIn: https://www.linkedin.com/in/pratikxdev
 
 ---
 
