@@ -77,13 +77,9 @@ python main.py
 
 ## 📸 Screenshots
 
-### Terminal Output
+![Terminal Output](Screenshots/terminal-output.png)
 
-![Terminal Output](screenshots/terminal-output.png)
-
-### Google Sheets Output
-
-![Google Sheets Output](screenshots/workout-sheet.png)
+![Google Sheets Output](Screenshots/workout-sheet.png)
 
 ---
 
@@ -145,7 +141,7 @@ SHEETY_PASSWORD=YOUR_PASSWORD
 
 **Pratik Prajapati**
 
-GitHub: https://github.com/pratikxdev
+GitHub: https://github.com/pikuwa
 
 ---
 
