@@ -77,9 +77,9 @@ python main.py
 
 ## 📸 Screenshots
 
-![Terminal Output](Screenshots/terminal-output.png)
+![Terminal Output](Screenshots/terminal_output.png)
 
-![Google Sheets Output](Screenshots/workout-sheet.png)
+![Google Sheets Output](Screenshots/workout_sheet.png)
 
 ---
 
